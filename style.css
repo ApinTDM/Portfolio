@@ -12,6 +12,7 @@
     
 }
 
+
 .jumbotron .container{
     z-index: 1;
     position: relative;
@@ -89,6 +90,8 @@ h1 {
         width:50%;
         margin: auto;
     }
+
+    
 
 
 
